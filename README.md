@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to Link Shortener!
 
 - [Remix Docs](https://remix.run/docs)
 
@@ -37,17 +37,17 @@ Make sure to deploy the output of `remix build`
 - `build/`
 - `public/build/`
 
-### Using a Template
+## Autores ✒️
 
-When you ran `npx create-remix@latest` there were a few choices for hosting. You can run that again to create a new project, then copy over your `app/` folder to the new project that's pre-configured for your target server.
+* **Angelo Velandia** - *Trabajo Inicial* - [angelovelandia](https://github.com/angelovelandia)
 
-```sh
-cd ..
-# create a new project, and pick a pre-configured host
-npx create-remix@latest
-cd my-new-remix-app
-# remove the new project's app (not the old one!)
-rm -rf app
-# copy your app over
-cp -R ../my-old-remix-app/app app
-```
+## Licencia 📄
+
+Este proyecto está bajo una Licencia Gratuita
+
+## Expresiones de Gratitud 🎁
+
+* Gracias a todos los que descarguen el proyecto y lo compartan 📢
+
+---
+⌨️ con ❤️ por [angelovelandia](https://github.com/angelovelandia) 😊

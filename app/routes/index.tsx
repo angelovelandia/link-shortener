@@ -112,7 +112,7 @@ export default function Index() {
         <div style={formContainer}>
             <img src="./img/logo.jpg" alt="logo" style={logo} />
 
-            <h1 style={title}>
+            <h1>
               Link Shortener By <a target="_blank" style={{ color: "white", textDecoration: "none"}} href="https://twitter.com/AngeloVelandia4">@angelovelandia</a>
             </h1>
             <p style={subtitle}>

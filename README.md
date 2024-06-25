@@ -1,4 +1,4 @@
-# Welcome to Link Shortener!
+# Link Shortener!
 
 - [Remix Docs](https://remix.run/docs)
 

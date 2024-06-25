@@ -37,16 +37,6 @@ Make sure to deploy the output of `remix build`
 - `build/`
 - `public/build/`
 
-## Autores ✒️
-
-* **Angelo Velandia** - *Trabajo Inicial* - [angelovelandia](https://github.com/angelovelandia)
-
-## Licencia 📄
-
-Este proyecto está bajo una Licencia Gratuita
-
-## Expresiones de Gratitud 🎁
-
 * Gracias a todos los que descarguen el proyecto y lo compartan 📢
 
 ---
